@@ -1,2 +1,2 @@
 # Flights-Delay-EDA
-Analysis done on flights delay
+Exploratory Data Analysis done on flights delay
