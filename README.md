@@ -1,2 +1,2 @@
 # Flights-Delay-EDA
-Exploratory Data Analysis done on flights delay
+An xxploratory data analysis done on flights delay data to discover trends that contribute to arrival and departure delays
